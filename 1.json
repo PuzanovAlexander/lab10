@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "name": "Chocolate",
+            "price": 50,
+            "available": true,
+            "weight": 100
+        },
+        {
+            "name": "Coffee",
+            "price": 100,
+            "available": false,
+            "weight": 250
+        },
+        {
+            "name": "Tea",
+            "price": 70,
+            "available": true,
+            "weight": 50
+        },
+        {
+            "name": "Sugar",
+            "price": 92,
+            "weight": 1000,
+            "available": true
+        },
+        {
+            "name": "Milk",
+            "price": 121,
+            "weight": 970,
+            "available": true
+        },
+        {
+            "name": "Cocoa",
+            "price": 1211,
+            "weight": 232,
+            "available": true
+        },
+        {
+            "name": "капуста",
+            "price": 23,
+            "weight": 300,
+            "available": true
+        }
+    ]
+}
